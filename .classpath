@@ -33,5 +33,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/pleiades/java/7/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
